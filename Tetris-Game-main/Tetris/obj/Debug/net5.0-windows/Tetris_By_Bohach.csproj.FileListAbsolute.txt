@@ -1,0 +1,5 @@
+C:\Users\SNAIL\source\repos\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\SNAIL\source\repos\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\SNAIL\source\repos\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\Tetris_By_Bohach_MarkupCompile.cache
+C:\Users\SNAIL\source\repos\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\Tetris_By_Bohach_MarkupCompile.lref
+C:\Users\SNAIL\source\repos\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\Tetris_By_Bohach.csproj.AssemblyReference.cache
